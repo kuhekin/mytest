@@ -2,7 +2,6 @@
 title: brynths
 description: Truyện dịch
 email: kuhekin301m4v@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kuhekin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # # Your social accounts.
